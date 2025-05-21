@@ -8,7 +8,7 @@ Microservice sederhana untuk fitur Booking dalam aplikasi HotelManager.
 - Menghapus booking
 
 ## Teknologi
-- Node.js dengan Express.js
+- Node.js 
 - MongoDB sebagai database
 - Mongoose sebagai ODM
 
